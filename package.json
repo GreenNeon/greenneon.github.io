@@ -1,0 +1,23 @@
+{
+	"name": "greenneon.github.io",
+	"version": "1.0.0",
+	"description": "Portofolio website.",
+	"main": "index.js",
+	"dependencies": {},
+	"devDependencies": {
+		"tailwindcss": "^1.9.6"
+	},
+	"scripts": {
+		"build": "npx tailwindcss build styles.css -o output.css"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/GreenNeon/greenneon.github.io.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/GreenNeon/greenneon.github.io/issues"
+	},
+	"homepage": "https://github.com/GreenNeon/greenneon.github.io#readme"
+}
